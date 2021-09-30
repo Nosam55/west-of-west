@@ -1,0 +1,23 @@
+#feed{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    background-color: rosybrown;
+    width: 95%;
+    margin: 12px;
+}
+.card a{
+    display: block;
+}
+.card p{
+    align-self: center;
+}
+
+#ksays{
+    height:300px;
+
+}

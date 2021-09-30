@@ -1,0 +1,16 @@
+#feed{
+    border-color: #220099;
+    border-width: 2px;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rosybrown;
+    width: 66vw;
+    margin: 12px;
+}
